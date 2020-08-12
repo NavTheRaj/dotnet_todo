@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/navraj/Documents/dotnet_todo/TodoList/TodoList.csproj": {}
+  },
+  "projects": {
+    "/home/navraj/Documents/dotnet_todo/TodoList/TodoList.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/navraj/Documents/dotnet_todo/TodoList/TodoList.csproj",
+        "projectName": "TodoList",
+        "projectPath": "/home/navraj/Documents/dotnet_todo/TodoList/TodoList.csproj",
+        "packagesPath": "/home/navraj/.nuget/packages/",
+        "outputPath": "/home/navraj/Documents/dotnet_todo/TodoList/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/navraj/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/92/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
